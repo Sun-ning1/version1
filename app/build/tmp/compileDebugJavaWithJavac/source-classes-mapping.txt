@@ -1,0 +1,4 @@
+com/example/qrhunter/BuildConfig.java
+ com.example.qrhunter.BuildConfig
+com/example/qrhunter/MainActivity.java
+ com.example.qrhunter.MainActivity
